@@ -1,11 +1,11 @@
-package it.gtd.freetether;
+package it.gtd.noipv6;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import eu.chainfire.libsuperuser.Shell;
-import it.gtd.freetether.ext.Activities;
+import it.gtd.noipv6.ext.Activities;
 import lombok.AccessLevel;
 import lombok.Getter;
 import lombok.experimental.ExtensionMethod;

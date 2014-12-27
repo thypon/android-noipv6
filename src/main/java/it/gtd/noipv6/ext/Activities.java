@@ -1,4 +1,4 @@
-package it.gtd.freetether.ext;
+package it.gtd.noipv6.ext;
 
 import android.app.Activity;
 import android.view.View;
